@@ -17,10 +17,11 @@ I build end-to-end ML pipelines, web applications, and data-driven tools. Curren
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [rag-medical-eval](https://github.com/noahlips/rag-medical-eval) | French medical RAG with rigorous evaluation: hit@k, MRR, citation validity, LLM-as-judge | Python, BM25, Ollama |
+| [mlops-medical-classifier](https://github.com/noahlips/mlops-medical-classifier) | End-to-end MLOps: training artifacts, FastAPI, CI/CD, Docker, drift monitoring | scikit-learn, FastAPI, Docker |
 | [forex-lstm-forecasting](https://github.com/noahlips/forex-lstm-forecasting) | EUR/USD direction forecasting: Bidirectional LSTM, 40+ features, walk-forward validation | TensorFlow, Keras, Pandas |
 | [web-data-kg-project](https://github.com/noahlips/web-data-kg-project) | Knowledge Graph pipeline: web crawling, NER, RDF, SPARQL, RAG | Python, rdflib, spaCy, Ollama |
 | [solar-app](https://github.com/noahlips/solar-app) ([live demo](https://noahlips.github.io/solar-app/)) + [backend](https://github.com/noahlips/green-ai-solar-backend) | Full-stack solar panel efficiency predictor | React, FastAPI, scikit-learn |
-| [edge-finder](https://github.com/noahlips/edge-finder) | Investment research dashboard: Polymarket signals, quant screening, insider data | TypeScript, React |
 | [website_metal](https://github.com/noahlips/website_metal) | Landing page for industrial metal 3D printing training | Next.js, Tailwind CSS, Framer Motion |
 
 ## Let's Connect
