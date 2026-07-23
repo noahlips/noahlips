@@ -17,7 +17,6 @@ I build end-to-end ML pipelines, web applications, and data-driven tools. Curren
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [rag-medical-eval](https://github.com/noahlips/rag-medical-eval) | French medical RAG with rigorous evaluation: hit@k, MRR, citation validity, LLM-as-judge | Python, BM25, Ollama |
 | [mlops-medical-classifier](https://github.com/noahlips/mlops-medical-classifier) | End-to-end MLOps: training artifacts, FastAPI, CI/CD, Docker, drift monitoring | scikit-learn, FastAPI, Docker |
 | [forex-lstm-forecasting](https://github.com/noahlips/forex-lstm-forecasting) | EUR/USD direction forecasting: Bidirectional LSTM, 40+ features, walk-forward validation | TensorFlow, Keras, Pandas |
 | [web-data-kg-project](https://github.com/noahlips/web-data-kg-project) | Knowledge Graph pipeline: web crawling, NER, RDF, SPARQL, RAG | Python, rdflib, spaCy, Ollama |
